@@ -13,7 +13,9 @@
 
 - Banco de dados utilizado: [Dados abertos do Governo Federal](https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/serie-historica-de-precos-de-combustiveis) - 2° semestre de 2023
 
-![Imgur](https://i.imgur.com/o9hHPGK.png) *Screenshot 1 - Importando e lendo o banco de dados*
+![Imgur](https://i.imgur.com/o9hHPGK.png)
+
+*Screenshot 1 - Importando e lendo o banco de dados*
 
 <hr />
 
